@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer", "Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer\Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer.csproj", "{CC3850F0-06CB-490E-BCF6-88479C83BEEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer.Test", "Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer.Test\Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer.Test.csproj", "{D732DEAE-6F8F-4689-A03B-4989EFBC5E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer.Vsix", "Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer.Vsix\Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer.Vsix.csproj", "{17B6CB94-7C48-44F4-A36D-3AC32EFB6C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3850F0-06CB-490E-BCF6-88479C83BEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3850F0-06CB-490E-BCF6-88479C83BEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3850F0-06CB-490E-BCF6-88479C83BEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3850F0-06CB-490E-BCF6-88479C83BEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D732DEAE-6F8F-4689-A03B-4989EFBC5E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D732DEAE-6F8F-4689-A03B-4989EFBC5E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D732DEAE-6F8F-4689-A03B-4989EFBC5E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D732DEAE-6F8F-4689-A03B-4989EFBC5E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B6CB94-7C48-44F4-A36D-3AC32EFB6C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B6CB94-7C48-44F4-A36D-3AC32EFB6C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B6CB94-7C48-44F4-A36D-3AC32EFB6C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B6CB94-7C48-44F4-A36D-3AC32EFB6C08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9681679C-1D13-4A9B-A27E-D079DB145C5D}
+	EndGlobalSection
+EndGlobal
