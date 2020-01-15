@@ -1,11 +1,8 @@
-# Havit.EducationalWindows.RoslynSamples
-Materials created for [Educational Window](https://www.youtube.com/channel/UCTLcN8h-1p08yln1lqKHCRw) presented on 21. 11. 2019 in HAVIT.
+# Havit.EducationalWindows repository
+Materials created for [HAVIT Educational Windows](https://youtu.be/W2orIu107Vw).
 
-This repository contains [presentation](Presentation.pptx) and 7 samples:
-- 01_SyntaxTreeParser
-- 02_SyntaxWalker
-- 03_SemanticModelParser
-- 04_TransformationConstructing
-- 05_SyntaxTreeTransformation
-- 06_Emit
-- Havit.CodeAnalyzers.SystemDiagnosticsAnalyzer
+My Educational Windows:
+- [ASP.NET WebForms - Dependency Injection s Castle Windsor (25. 1. 2019)](https://github.com/vaclavek/Havit.CastleWindsor.WebForms)
+- Azure Cognitive Services (25. 7. 2019)
+- Jak na vlastní Code Analyzers (21. 11. 2019)
+- Wi Fi Security - part I. - WEP (9. 1. 2020)
